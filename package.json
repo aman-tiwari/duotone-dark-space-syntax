@@ -1,16 +1,18 @@
 {
-  "name": "duotone-dark-space-syntax",
+  "name": "animated-duotone-dark-space-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "A dark blue-red DuoTone syntax theme",
+  "description": "An animated dark blue-red DuoTone syntax theme",
   "keywords": [
     "dark",
     "blue",
     "red",
     "duotone",
-    "syntax"
+    "syntax",
+    "animated",
+    "pulse"
   ],
-  "repository": "https://github.com/simurai/duotone-dark-space-syntax",
+  "repository": "https://github.com/aman-tiwari/duotone-dark-space-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
